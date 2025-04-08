@@ -154,7 +154,7 @@
                     data-text="{{ __('welcome.description_delete') }}">
                 {{ __('welcome.what_is') }}
             </button>
-            <div class="mb-4">
+            <div class="mb-2">
                 <label class="block text-gray-700 text-sm font-bold" for="password">
                     {{ __('welcome.password') }}
                 </label>
